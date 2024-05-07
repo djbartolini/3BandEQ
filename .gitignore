@@ -1,0 +1,12 @@
+
+.idea
+cmake-build-debug
+
+lib
+
+lib/examples
+lib/docs
+
+*/DS_Store
+
+tmpfile
